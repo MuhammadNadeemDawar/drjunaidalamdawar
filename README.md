@@ -27,6 +27,6 @@ The live site is served from this repository's `main` branch using GitHub Pages.
 
 ## Suggested Repository About Metadata
 
-**Description:** Responsive clinic website for Dr. Junaid Alam Dawar, Consultant Neurosurgeon in Bannu, Pakistan.
+**Description:** Clinic information and appointment contacts for Dr. Junaid Alam Dawar, Consultant Neurosurgeon in Bannu, Pakistan.
 
-**Topics:** `healthcare`, `clinic`, `neurosurgery`, `HTML`, `CSS`, `JavaScript`, `web-design`, `github-pages`
+**Topics:** `neurosurgery`, `neurosurgical-treatment`, `brain-and-spine-care`, `brain-tumor-care`, `spine-care`, `headache-evaluation`, `healthcare`, `clinic`, `bannu`, `pakistan`
