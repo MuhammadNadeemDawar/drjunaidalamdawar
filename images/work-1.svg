@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Work image placeholder 1">
+  <defs>
+    <linearGradient id="bg1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#dfeff5"/>
+      <stop offset="100%" stop-color="#b9d7e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg1)"/>
+  <rect x="90" y="95" width="1020" height="710" rx="26" fill="#ffffff" opacity="0.65"/>
+  <rect x="180" y="340" width="600" height="250" rx="18" fill="#0d3b4d" opacity="0.88"/>
+  <rect x="220" y="375" width="180" height="170" rx="12" fill="#d9f1ff" opacity="0.92"/>
+  <rect x="430" y="380" width="300" height="20" rx="10" fill="#d9f1ff" opacity="0.8"/>
+  <rect x="430" y="420" width="240" height="18" rx="10" fill="#d9f1ff" opacity="0.6"/>
+  <rect x="430" y="455" width="260" height="18" rx="10" fill="#d9f1ff" opacity="0.6"/>
+  <rect x="430" y="490" width="180" height="18" rx="10" fill="#d9f1ff" opacity="0.6"/>
+  <circle cx="260" cy="250" r="70" fill="#5eb4d7" opacity="0.82"/>
+  <circle cx="300" cy="250" r="42" fill="#ffffff" opacity="0.76"/>
+  <rect x="780" y="200" width="180" height="120" rx="18" fill="#ebf5fb"/>
+  <path d="M820 285 L860 225 L900 285 Z" fill="#5eb4d7" opacity="0.9"/>
+  <rect x="90" y="120" width="220" height="44" rx="12" fill="#0f6b8b" opacity="0.18"/>
+  <text x="120" y="148" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0e3d54">Work Photo 1</text>
+</svg>
